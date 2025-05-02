@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on anything that will teach me new things.
 - 📫 How to reach me: via email
 - 😄 Pronouns: male
-- ⚡ Fun fact: je suis francais
+- ⚡ Fun fact: je suis né en France
 
 <!---
 mdub187/mdub187 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
