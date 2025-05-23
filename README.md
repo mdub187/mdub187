@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mdub187
 - 👀 I’m interested in all things music, learning to code, and mastering myself.
 - 🌱 I’m currently learning python, js, react, and typescript.
-- 🎶 I Love music, and am also very interested in developing touch deisgner elements.
-- 💞️ I’m looking to collaborate on anything that will teach me new things.
+- 🎶 I Love music... learning all aspects of web and program development... and am also very interested in touch deisgner.
+- 💞️ I’m looking to collaborate on anything that will teach me strategies and methods.
 - 📫 How to reach me: via email
 - 😄 Pronouns: male
 - ⚡ Fun fact: je suis né en France
