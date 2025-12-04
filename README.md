@@ -1,11 +1,29 @@
-- 👋 Hi, I’m @mdub187
-- 👀 I’m interested in all things music, learning to code, and enjoying the outdoors.
-- 🌱 I’m currently learning python, js, react, and typescript.
-- 🎶 I Love music... learning all aspects of web and program development... and am also very interested in graphic-production and audio-production.
-- 🤝 I’m looking to collaborate on anything that will teach me strategies and methods.
-- 📫 How to reach me: via email
-- ⚡ Fun fact: je suis né en France
+-----
+
+- ## 👋 Hi, I’m ***@mdub187***
+
+----
+
 - 📚 Never stop learning
+ 
+----
+
+- 🌱 I’m currently developing with python, reflex, mongodb, react, and javascript.
+
+----
+
+- 🤝 I’m looking to collaborate on anything that will teach me strategies and methods.
+- 🖇️ I'm navigating this journey with a very small network of people. I would love and welcome anyone to discuss best practices and general coding conduct. 
+
+---
+
+1. 👀 I’m interested in all things music, learning to code, and enjoying the outdoors.
+2. 🎶 I Love music... learning all aspects of web and program development... and am also very interested in graphic-production and audio-production.
+
+---
+
+- 📫 How to reach me: via email, or linkedin.
+- ⚡ Fun fact: je suis né en France && I make all sorts of great music. albeit the great is subjective. 
 
 
 <!---
