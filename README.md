@@ -17,8 +17,8 @@
 
 ---
 
-1. 👀 I’m interested in all things music, learning to code, and enjoying the outdoors.
-2. 🎶 I Love music... learning all aspects of web and program development... and am also very interested in graphic-production and audio-production.
+- 👀 I’m interested in all things music, learning to code, and enjoying the outdoors.
+- 🎶 I Love music... learning all aspects of web and program development... and am also very interested in graphic-production and audio-production.
 
 ---
 
