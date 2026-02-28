@@ -18,7 +18,7 @@
 ---
 
 - 👀 I’m interested in all things music, learning to code, and enjoying the outdoors.
-- 🎶 because of my love of music and audio production I tend to gravitate on utilities and ideas that would complement its use cases.
+- 🎶 because of my love of music and audio production I tend to gravitate on utilities and ideas that would complement this use cases.
 
 ---
 
