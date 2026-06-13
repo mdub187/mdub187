@@ -4,24 +4,30 @@
 
 ----
 
+- ## OBJECTIVES
 - Never stop learning
- 
+- Travel to work, work to travel
+
 ----
 
+- ## PROFICIENCIES
 - I’m currently developing with python, reflex, mongodb, react, and javascript.
 
 ----
 
+- ## COLLABORATION
 - I’m looking to collaborate on anything that will teach me strategies and methods.
 - I'm navigating this journey with a very small network of people. I would love and welcome anyone to discuss best practices and general coding conduct. 
 
 ---
 
+- ## ABOUT ME
 - I’m interested in all things music, learning to code, and enjoying the outdoors.
 - because of my love of music and audio production I tend to gravitate on utilities and ideas that would complement this use cases.
 
 ---
 
+- ## CONTACT
 - How to reach me: via email, or linkedin.
 - Fun fact: je suis né en France && I make all sorts of great music. albeit the great is subjective. 
 
